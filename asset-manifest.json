@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ad545ae6.css",
-    "main.js": "/static/js/main.162a1a43.js",
+    "main.js": "/static/js/main.fd361623.js",
     "static/js/65298.d2244ee2.chunk.js": "/static/js/65298.d2244ee2.chunk.js",
     "static/js/2763.b3859d75.chunk.js": "/static/js/2763.b3859d75.chunk.js",
     "static/js/19165.1a8c9ec4.chunk.js": "/static/js/19165.1a8c9ec4.chunk.js",
@@ -1617,7 +1617,7 @@
     "static/media/MDRI Logo cool.png": "/static/media/MDRI Logo cool.3571322e5cd4340838b2.png",
     "index.html": "/index.html",
     "main.ad545ae6.css.map": "/static/css/main.ad545ae6.css.map",
-    "main.162a1a43.js.map": "/static/js/main.162a1a43.js.map",
+    "main.fd361623.js.map": "/static/js/main.fd361623.js.map",
     "65298.d2244ee2.chunk.js.map": "/static/js/65298.d2244ee2.chunk.js.map",
     "2763.b3859d75.chunk.js.map": "/static/js/2763.b3859d75.chunk.js.map",
     "19165.1a8c9ec4.chunk.js.map": "/static/js/19165.1a8c9ec4.chunk.js.map",
@@ -3233,6 +3233,6 @@
   },
   "entrypoints": [
     "static/css/main.ad545ae6.css",
-    "static/js/main.162a1a43.js"
+    "static/js/main.fd361623.js"
   ]
 }
