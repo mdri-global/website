@@ -1,0 +1,3 @@
+/*! For license information please see 93721.40ae85d9.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkmdri_react_app=self.webpackChunkmdri_react_app||[]).push([[93721],{81074:(e,a,t)=>{t.d(a,{A:()=>d});var r=t(65043),c=t(66761),s=t(48825);const d=(e,a)=>{const t=(0,r.forwardRef)((t,d)=>{let{className:i,...l}=t;return(0,r.createElement)(s.A,{ref:d,iconNode:a,className:(0,c.zP)(`lucide-${(0,c.fX)((0,c.MX)(e))}`,`lucide-${e}`,i),...l})});return t.displayName=(0,c.MX)(e),t}},93721:(e,a,t)=>{t.r(a),t.d(a,{__iconNode:()=>c,default:()=>s});var r=t(81074);const c=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["path",{d:"M17 12h-2l-2 5-2-10-2 5H7",key:"15hlnc"}]],s=(0,r.A)("square-activity",c)}}]);
+//# sourceMappingURL=93721.40ae85d9.chunk.js.map

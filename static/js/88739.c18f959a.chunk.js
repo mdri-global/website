@@ -1,0 +1,3 @@
+/*! For license information please see 88739.c18f959a.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkmdri_react_app=self.webpackChunkmdri_react_app||[]).push([[88739],{81074:(e,t,a)=>{a.d(t,{A:()=>s});var r=a(65043),c=a(66761),d=a(48825);const s=(e,t)=>{const a=(0,r.forwardRef)((a,s)=>{let{className:n,...i}=a;return(0,r.createElement)(d.A,{ref:s,iconNode:t,className:(0,c.zP)(`lucide-${(0,c.fX)((0,c.MX)(e))}`,`lucide-${e}`,n),...i})});return a.displayName=(0,c.MX)(e),a}},88739:(e,t,a)=>{a.r(t),a.d(t,{__iconNode:()=>c,default:()=>d});var r=a(81074);const c=[["path",{d:"M 22 14 L 22 10",key:"nqc4tb"}],["rect",{x:"2",y:"6",width:"16",height:"12",rx:"2",key:"13zb55"}]],d=(0,r.A)("battery",c)}}]);
+//# sourceMappingURL=88739.c18f959a.chunk.js.map

@@ -1,0 +1,3 @@
+/*! For license information please see 86376.fb5507e6.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkmdri_react_app=self.webpackChunkmdri_react_app||[]).push([[86376],{81074:(e,r,a)=>{a.d(r,{A:()=>s});var c=a(65043),t=a(66761),d=a(48825);const s=(e,r)=>{const a=(0,c.forwardRef)((a,s)=>{let{className:i,...n}=a;return(0,c.createElement)(d.A,{ref:s,iconNode:r,className:(0,t.zP)(`lucide-${(0,t.fX)((0,t.MX)(e))}`,`lucide-${e}`,i),...n})});return a.displayName=(0,t.MX)(e),a}},86376:(e,r,a)=>{a.r(r),a.d(r,{__iconNode:()=>t,default:()=>d});var c=a(81074);const t=[["rect",{width:"20",height:"14",x:"2",y:"5",rx:"2",key:"ynyp8z"}],["line",{x1:"2",x2:"22",y1:"10",y2:"10",key:"1b3vmo"}]],d=(0,c.A)("credit-card",t)}}]);
+//# sourceMappingURL=86376.fb5507e6.chunk.js.map

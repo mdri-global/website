@@ -1,0 +1,3 @@
+/*! For license information please see 57509.f0eeadb4.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkmdri_react_app=self.webpackChunkmdri_react_app||[]).push([[57509],{57509:(e,r,c)=>{c.r(r),c.d(r,{__iconNode:()=>t,default:()=>s});var a=c(81074);const t=[["rect",{width:"18",height:"18",x:"3",y:"3",rx:"2",key:"afitv7"}],["circle",{cx:"12",cy:"12",r:"1",key:"41hilf"}]],s=(0,a.A)("square-dot",t)},81074:(e,r,c)=>{c.d(r,{A:()=>d});var a=c(65043),t=c(66761),s=c(48825);const d=(e,r)=>{const c=(0,a.forwardRef)((c,d)=>{let{className:i,...l}=c;return(0,a.createElement)(s.A,{ref:d,iconNode:r,className:(0,t.zP)(`lucide-${(0,t.fX)((0,t.MX)(e))}`,`lucide-${e}`,i),...l})});return c.displayName=(0,t.MX)(e),c}}}]);
+//# sourceMappingURL=57509.f0eeadb4.chunk.js.map
